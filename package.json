@@ -1,6 +1,6 @@
 {
-  "name": "blockchain-tx-service",
-  "version": "0.0.1",
+  "name": "blockchain-tx-service-api.js",
+  "version": "0.0.2",
   "description": "Delegated transaction service for the Ethereum blockchain",
   "main": "index.js",
   "author": "adamjlemmon",
@@ -9,7 +9,7 @@
   "scripts": {
     "test": "mocha;"
   },
-  "dependencies": {
+  "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0"
   }
