@@ -1,0 +1,16 @@
+{
+  "name": "blockchain-tx-service",
+  "version": "0.0.1",
+  "description": "Delegated transaction service for the Ethereum blockchain",
+  "main": "index.js",
+  "author": "adamjlemmon",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "mocha;"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
